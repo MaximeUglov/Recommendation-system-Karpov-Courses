@@ -24,3 +24,17 @@ __main.ipynb__ - описание признаков, их обработка, �
 __requirements.txt__ - список используемых библиотек    
 __schema.py__ - форма ответа сервиса    
 __text_to_embeddings.ipynb__ - обработка текстов    
+
+### Библиотеки
+
+<div id="badges">
+  <img src="https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/sqlalchemy-black?style=for-the-badge&logo=sqlalchemy"/>
+  <img src="https://img.shields.io/badge/sklearn-black?style=for-the-badge&logo=scikit-learn"/>
+  <img src="https://img.shields.io/badge/pytorch-black?style=for-the-badge&logo=pytorch"/>
+  <img src="https://img.shields.io/badge/catboost-black?style=for-the-badge&logo=catboost"/>
+  <img src="https://img.shields.io/badge/fastapi-black?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/pydantic-black?style=for-the-badge&logo=pydantic"/>
+  <img src="https://img.shields.io/badge/uvicorn-black?style=for-the-badge&logo=uvicorn"/>
+</div>
